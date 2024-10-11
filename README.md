@@ -72,7 +72,11 @@ places - карточки, добавление места, лайки
 
 
 ## Распределение в проекте
-Компоненты, картинки и стили распределил в каталоге frontend/microfontend
+Добавлены директоррии
+auth-microfrontend
+host-microfrontend
+places-microfrontend
+profile-microfrontend
 
 # Задание 2
 https://drive.google.com/file/d/1FKwJo7OxRBaoIMI7DZ2tJK61ufquNpWv/view?usp=sharing
